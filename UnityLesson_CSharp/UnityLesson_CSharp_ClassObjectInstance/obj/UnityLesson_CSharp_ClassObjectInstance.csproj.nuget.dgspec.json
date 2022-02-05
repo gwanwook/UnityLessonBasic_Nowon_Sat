@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\Source\\Repos\\UnityLessonBasic_Nowon_Sat\\UnityLesson_CSharp\\UnityLesson_CSharp_ClassObjectInstance\\UnityLesson_CSharp_ClassObjectInstance.csproj": {}
+    "C:\\Users\\User\\Documents\\GitHub\\UnityLessonBasic_Nowon_Sat\\UnityLesson_CSharp\\UnityLesson_CSharp_ClassObjectInstance\\UnityLesson_CSharp_ClassObjectInstance.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\Source\\Repos\\UnityLessonBasic_Nowon_Sat\\UnityLesson_CSharp\\UnityLesson_CSharp_ClassObjectInstance\\UnityLesson_CSharp_ClassObjectInstance.csproj": {
+    "C:\\Users\\User\\Documents\\GitHub\\UnityLessonBasic_Nowon_Sat\\UnityLesson_CSharp\\UnityLesson_CSharp_ClassObjectInstance\\UnityLesson_CSharp_ClassObjectInstance.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Source\\Repos\\UnityLessonBasic_Nowon_Sat\\UnityLesson_CSharp\\UnityLesson_CSharp_ClassObjectInstance\\UnityLesson_CSharp_ClassObjectInstance.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Documents\\GitHub\\UnityLessonBasic_Nowon_Sat\\UnityLesson_CSharp\\UnityLesson_CSharp_ClassObjectInstance\\UnityLesson_CSharp_ClassObjectInstance.csproj",
         "projectName": "UnityLesson_CSharp_ClassObjectInstance",
-        "projectPath": "C:\\Users\\User\\Source\\Repos\\UnityLessonBasic_Nowon_Sat\\UnityLesson_CSharp\\UnityLesson_CSharp_ClassObjectInstance\\UnityLesson_CSharp_ClassObjectInstance.csproj",
+        "projectPath": "C:\\Users\\User\\Documents\\GitHub\\UnityLessonBasic_Nowon_Sat\\UnityLesson_CSharp\\UnityLesson_CSharp_ClassObjectInstance\\UnityLesson_CSharp_ClassObjectInstance.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Source\\Repos\\UnityLessonBasic_Nowon_Sat\\UnityLesson_CSharp\\UnityLesson_CSharp_ClassObjectInstance\\obj\\",
+        "outputPath": "C:\\Users\\User\\Documents\\GitHub\\UnityLessonBasic_Nowon_Sat\\UnityLesson_CSharp\\UnityLesson_CSharp_ClassObjectInstance\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",

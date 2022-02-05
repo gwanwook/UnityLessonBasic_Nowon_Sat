@@ -21,10 +21,18 @@ namespace UnityLesson_CSharp_Operator
             return a - b;
         }
         // 나누기
-        static public int Nanoogi(int a, int b)
+        static public int Div(int a, int b)
         {
             return a / b;
         }
+
+        // 실수형 나누기
+        // 오버로드 ( overload )
+        static public float Div(float a, float b)
+        {
+            return a / b;
+        }
+
         // 곱하기
         static public int NumBy(int a, int b)
         {

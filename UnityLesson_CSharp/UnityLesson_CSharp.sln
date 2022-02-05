@@ -13,17 +13,27 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UnityLesson_CSharp_If", "Un
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UnityLesson_CSharp_Method", "UnityLesson_CSharp_Method\UnityLesson_CSharp_Method.csproj", "{C33FD700-5703-4295-AA7C-76430382E882}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityLesson_CSharp_ClassIncludingVariablesFunctions", "UnityLesson_CSharp_ClassIncludingVariablesFunctions\UnityLesson_CSharp_ClassIncludingVariablesFunctions.csproj", "{A2FD62AC-157D-44C8-9FD6-CE8ACA80D74E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UnityLesson_CSharp_ClassIncludingVariablesFunctions", "UnityLesson_CSharp_ClassIncludingVariablesFunctions\UnityLesson_CSharp_ClassIncludingVariablesFunctions.csproj", "{A2FD62AC-157D-44C8-9FD6-CE8ACA80D74E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityLesson_CSharp_ClassObjectInstance", "UnityLesson_CSharp_ClassObjectInstance\UnityLesson_CSharp_ClassObjectInstance.csproj", "{F6315F90-33AE-49AD-9E5C-FCA71969BD90}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UnityLesson_CSharp_ClassObjectInstance", "UnityLesson_CSharp_ClassObjectInstance\UnityLesson_CSharp_ClassObjectInstance.csproj", "{F6315F90-33AE-49AD-9E5C-FCA71969BD90}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityLesson_CSharp_InstantiationOfObject", "UnityLesson_CSharp_InstantiationOfObject\UnityLesson_CSharp_InstantiationOfObject.csproj", "{7C8A578E-6880-4B61-99EF-06548884CB80}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UnityLesson_CSharp_InstantiationOfObject", "UnityLesson_CSharp_InstantiationOfObject\UnityLesson_CSharp_InstantiationOfObject.csproj", "{7C8A578E-6880-4B61-99EF-06548884CB80}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityLesson_CSharp_StaticExample", "UnityLesson_CSharp_StaticExample\UnityLesson_CSharp_StaticExample.csproj", "{B85CA89F-89DF-44FD-B3B9-7CB64AB1A67F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UnityLesson_CSharp_StaticExample", "UnityLesson_CSharp_StaticExample\UnityLesson_CSharp_StaticExample.csproj", "{B85CA89F-89DF-44FD-B3B9-7CB64AB1A67F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityLesson_CSharp_InstantiationExample1", "UnityLesson_CSharp_InstantiationExample1\UnityLesson_CSharp_InstantiationExample1.csproj", "{9DFBE194-5449-490A-891A-8904382478D6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UnityLesson_CSharp_InstantiationExample1", "UnityLesson_CSharp_InstantiationExample1\UnityLesson_CSharp_InstantiationExample1.csproj", "{9DFBE194-5449-490A-891A-8904382478D6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityLesson_CSharp_Operator", "UnityLesson_CSharp_Operator\UnityLesson_CSharp_Operator.csproj", "{E8286178-4437-4D0E-B7B9-1B12FCF12111}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UnityLesson_CSharp_Operator", "UnityLesson_CSharp_Operator\UnityLesson_CSharp_Operator.csproj", "{E8286178-4437-4D0E-B7B9-1B12FCF12111}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityLesson_CSharp_Array", "UnityLesson_CSharp_Array\UnityLesson_CSharp_Array.csproj", "{05DFF246-16B9-4892-B7AA-CBF7321593E7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityLesson_CSharp_WhileLoop", "UnityLesson_CSharp_WhileLoop\UnityLesson_CSharp_WhileLoop.csproj", "{9F4A7010-26B8-4888-9BE5-A978F77D3A0C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityLesson_CSharp_ForLoop", "UnityLesson_CSharp_ForLoop\UnityLesson_CSharp_ForLoop.csproj", "{2D27FDA5-8972-4AC5-889E-4E48BD674829}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityLesson_CSharp_ForLoopExample", "UnityLesson_CSharp_ForLoopExample\UnityLesson_CSharp_ForLoopExample.csproj", "{A0BF71AD-B6BB-4290-BDC5-983C61335B59}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityLesson_CSharp_Collection", "UnityLesson_CSharp_Collection\UnityLesson_CSharp_Collection.csproj", "{4AA2026C-2280-4C1C-99B2-BA4B0A01995E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -75,6 +85,26 @@ Global
 		{E8286178-4437-4D0E-B7B9-1B12FCF12111}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E8286178-4437-4D0E-B7B9-1B12FCF12111}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E8286178-4437-4D0E-B7B9-1B12FCF12111}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05DFF246-16B9-4892-B7AA-CBF7321593E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05DFF246-16B9-4892-B7AA-CBF7321593E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05DFF246-16B9-4892-B7AA-CBF7321593E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05DFF246-16B9-4892-B7AA-CBF7321593E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F4A7010-26B8-4888-9BE5-A978F77D3A0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F4A7010-26B8-4888-9BE5-A978F77D3A0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F4A7010-26B8-4888-9BE5-A978F77D3A0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F4A7010-26B8-4888-9BE5-A978F77D3A0C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D27FDA5-8972-4AC5-889E-4E48BD674829}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D27FDA5-8972-4AC5-889E-4E48BD674829}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D27FDA5-8972-4AC5-889E-4E48BD674829}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D27FDA5-8972-4AC5-889E-4E48BD674829}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A0BF71AD-B6BB-4290-BDC5-983C61335B59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0BF71AD-B6BB-4290-BDC5-983C61335B59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0BF71AD-B6BB-4290-BDC5-983C61335B59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0BF71AD-B6BB-4290-BDC5-983C61335B59}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4AA2026C-2280-4C1C-99B2-BA4B0A01995E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4AA2026C-2280-4C1C-99B2-BA4B0A01995E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4AA2026C-2280-4C1C-99B2-BA4B0A01995E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4AA2026C-2280-4C1C-99B2-BA4B0A01995E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
