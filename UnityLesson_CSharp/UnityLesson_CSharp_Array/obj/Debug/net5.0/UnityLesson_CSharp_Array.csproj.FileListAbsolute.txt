@@ -13,3 +13,4 @@ C:\Users\User\Documents\GitHub\UnityLessonBasic_Nowon_Sat\UnityLesson_CSharp\Uni
 C:\Users\User\Documents\GitHub\UnityLessonBasic_Nowon_Sat\UnityLesson_CSharp\UnityLesson_CSharp_Array\obj\Debug\net5.0\ref\UnityLesson_CSharp_Array.dll
 C:\Users\User\Documents\GitHub\UnityLessonBasic_Nowon_Sat\UnityLesson_CSharp\UnityLesson_CSharp_Array\obj\Debug\net5.0\UnityLesson_CSharp_Array.pdb
 C:\Users\User\Documents\GitHub\UnityLessonBasic_Nowon_Sat\UnityLesson_CSharp\UnityLesson_CSharp_Array\obj\Debug\net5.0\UnityLesson_CSharp_Array.genruntimeconfig.cache
+C:\Users\User\Documents\GitHub\UnityLessonBasic_Nowon_Sat\UnityLesson_CSharp\UnityLesson_CSharp_Array\obj\Debug\net5.0\UnityLesson_CSharp_Array.csproj.AssemblyReference.cache

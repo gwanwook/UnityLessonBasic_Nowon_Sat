@@ -25,15 +25,19 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UnityLesson_CSharp_Instanti
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UnityLesson_CSharp_Operator", "UnityLesson_CSharp_Operator\UnityLesson_CSharp_Operator.csproj", "{E8286178-4437-4D0E-B7B9-1B12FCF12111}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityLesson_CSharp_Array", "UnityLesson_CSharp_Array\UnityLesson_CSharp_Array.csproj", "{05DFF246-16B9-4892-B7AA-CBF7321593E7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UnityLesson_CSharp_Array", "UnityLesson_CSharp_Array\UnityLesson_CSharp_Array.csproj", "{05DFF246-16B9-4892-B7AA-CBF7321593E7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityLesson_CSharp_WhileLoop", "UnityLesson_CSharp_WhileLoop\UnityLesson_CSharp_WhileLoop.csproj", "{9F4A7010-26B8-4888-9BE5-A978F77D3A0C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UnityLesson_CSharp_WhileLoop", "UnityLesson_CSharp_WhileLoop\UnityLesson_CSharp_WhileLoop.csproj", "{9F4A7010-26B8-4888-9BE5-A978F77D3A0C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityLesson_CSharp_ForLoop", "UnityLesson_CSharp_ForLoop\UnityLesson_CSharp_ForLoop.csproj", "{2D27FDA5-8972-4AC5-889E-4E48BD674829}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UnityLesson_CSharp_ForLoop", "UnityLesson_CSharp_ForLoop\UnityLesson_CSharp_ForLoop.csproj", "{2D27FDA5-8972-4AC5-889E-4E48BD674829}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityLesson_CSharp_ForLoopExample", "UnityLesson_CSharp_ForLoopExample\UnityLesson_CSharp_ForLoopExample.csproj", "{A0BF71AD-B6BB-4290-BDC5-983C61335B59}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UnityLesson_CSharp_ForLoopExample", "UnityLesson_CSharp_ForLoopExample\UnityLesson_CSharp_ForLoopExample.csproj", "{A0BF71AD-B6BB-4290-BDC5-983C61335B59}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityLesson_CSharp_Collection", "UnityLesson_CSharp_Collection\UnityLesson_CSharp_Collection.csproj", "{4AA2026C-2280-4C1C-99B2-BA4B0A01995E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UnityLesson_CSharp_Collection", "UnityLesson_CSharp_Collection\UnityLesson_CSharp_Collection.csproj", "{4AA2026C-2280-4C1C-99B2-BA4B0A01995E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityLesson_CSharp_EnumAndSwitchCase", "UnityLesson_CSharp_EnumAndSwitchCase\UnityLesson_CSharp_EnumAndSwitchCase.csproj", "{F9524140-2EBC-4DE7-B733-606FEB7A7F5B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityLesson_CSharp_Structure", "UnityLesson_CSharp_Structure\UnityLesson_CSharp_Structure.csproj", "{F73BADA4-9640-4AF7-9BF2-F7C45195DD9E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -105,6 +109,14 @@ Global
 		{4AA2026C-2280-4C1C-99B2-BA4B0A01995E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4AA2026C-2280-4C1C-99B2-BA4B0A01995E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4AA2026C-2280-4C1C-99B2-BA4B0A01995E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9524140-2EBC-4DE7-B733-606FEB7A7F5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9524140-2EBC-4DE7-B733-606FEB7A7F5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9524140-2EBC-4DE7-B733-606FEB7A7F5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9524140-2EBC-4DE7-B733-606FEB7A7F5B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F73BADA4-9640-4AF7-9BF2-F7C45195DD9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F73BADA4-9640-4AF7-9BF2-F7C45195DD9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F73BADA4-9640-4AF7-9BF2-F7C45195DD9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F73BADA4-9640-4AF7-9BF2-F7C45195DD9E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
