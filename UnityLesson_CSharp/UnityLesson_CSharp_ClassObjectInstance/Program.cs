@@ -27,6 +27,23 @@ namespace UnityLesson_CSharp_ClassObjectInstance
     // 기본적으로 접근제한자를 명시하지 않으면 private가 디폴트.
     public class AA
     {
+        public int age;
 
+        //생성자
+        public AA()
+        {
+
+        }
+
+        public AA(int age)
+        {
+
+        }
+
+        //소멸자
+        ~AA()
+        {
+
+        }
     }
 }
