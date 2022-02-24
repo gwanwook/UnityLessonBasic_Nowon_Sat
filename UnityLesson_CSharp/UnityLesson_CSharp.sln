@@ -39,9 +39,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UnityLesson_CSharp_EnumAndS
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UnityLesson_CSharp_Structure", "UnityLesson_CSharp_Structure\UnityLesson_CSharp_Structure.csproj", "{F73BADA4-9640-4AF7-9BF2-F7C45195DD9E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityLesson_CSharp_ClassInheritance", "UnityLesson_CSharp_ClassInheritance\UnityLesson_CSharp_ClassInheritance.csproj", "{3CD604C1-27BC-4F37-AAB7-F4B268C42E6C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UnityLesson_CSharp_ClassInheritance", "UnityLesson_CSharp_ClassInheritance\UnityLesson_CSharp_ClassInheritance.csproj", "{3CD604C1-27BC-4F37-AAB7-F4B268C42E6C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityLesson_CSharp_Delegate", "UnityLesson_CSharp_Delegate\UnityLesson_CSharp_Delegate.csproj", "{A05934C8-14BB-44A9-A035-1B849152F65F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UnityLesson_CSharp_Delegate", "UnityLesson_CSharp_Delegate\UnityLesson_CSharp_Delegate.csproj", "{A05934C8-14BB-44A9-A035-1B849152F65F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityLesson_CSharp_HorseRacingGame", "UnityLesson_CSharp_HorseRacingGame\UnityLesson_CSharp_HorseRacingGame.csproj", "{5C2403BE-7641-4980-AEE7-3B809628F2EE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -129,6 +131,10 @@ Global
 		{A05934C8-14BB-44A9-A035-1B849152F65F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A05934C8-14BB-44A9-A035-1B849152F65F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A05934C8-14BB-44A9-A035-1B849152F65F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C2403BE-7641-4980-AEE7-3B809628F2EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C2403BE-7641-4980-AEE7-3B809628F2EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C2403BE-7641-4980-AEE7-3B809628F2EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C2403BE-7641-4980-AEE7-3B809628F2EE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
