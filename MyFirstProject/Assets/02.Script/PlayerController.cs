@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class PlayerController : MonoBehaviour
 {
+    public GameObject go;
     Transform tr;
     public float moveSpeed;
     Vector3 move;
