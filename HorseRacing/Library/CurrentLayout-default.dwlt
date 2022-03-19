@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 1920
     height: 997
   m_ShowMode: 4
-  m_Title: Hierarchy
+  m_Title: Project
   m_RootView: {fileID: 4}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -155,7 +155,7 @@ MonoBehaviour:
   m_MinSize: {x: 911, y: 442}
   m_MaxSize: {x: 22006, y: 10021}
   vertical: 0
-  controlID: 108
+  controlID: 58
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -201,7 +201,7 @@ MonoBehaviour:
   m_MinSize: {x: 201, y: 442}
   m_MaxSize: {x: 4001, y: 8042}
   vertical: 1
-  controlID: 109
+  controlID: 145
 --- !u!114 &9
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -345,9 +345,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 
+      m_SelectedIDs: 5a060000
       m_LastClickedID: 0
-      m_ExpandedIDs: 2ef9ffff7e420000c2420000
+      m_ExpandedIDs: 70fbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -417,14 +417,14 @@ MonoBehaviour:
   m_LastFolders:
   - Assets/02.Script
   m_LastFoldersGridSize: 55
-  m_LastProjectPath: C:\Users\user\Documents\UnityLessonBasic_Nowon_Sat\HorseRacing
+  m_LastProjectPath: C:\Users\User\Documents\GitHub\UnityLessonBasic_Nowon_Sat\HorseRacing
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 88440000
-    m_LastClickedID: 17544
-    m_ExpandedIDs: 00000000784400007a4400007c4400007e440000804400008244000000ca9a3b
+    m_SelectedIDs: bc3f0000
+    m_LastClickedID: 16316
+    m_ExpandedIDs: 00000000ac3f0000ae3f0000b03f0000b23f0000b43f0000b63f000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -452,7 +452,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000784400007a4400007c4400007e4400008044000082440000
+    m_ExpandedIDs: 00000000ac3f0000ae3f0000b03f0000b23f0000b43f0000b63f0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -479,7 +479,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 1
+    m_HadKeyboardFocusLastEvent: 0
     m_ExpandedInstanceIDs: 0a4d000000000000bc560000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -564,7 +564,7 @@ MonoBehaviour:
     m_VAllowExceedBaseRangeMax: 1
     m_ScaleWithWindow: 0
     m_HSlider: 0
-    m_VSlider: 0
+    m_VSlider: 1
     m_IgnoreScrollWheelUntilClicked: 0
     m_EnableMouseInput: 1
     m_EnableSliderZoomHorizontal: 0
@@ -577,20 +577,20 @@ MonoBehaviour:
       y: 21
       width: 951
       height: 421
-    m_Scale: {x: 0.38981482, y: 0.38981482}
-    m_Translation: {x: 475.5, y: 210.5}
+    m_Scale: {x: 0.40925926, y: 0.4092593}
+    m_Translation: {x: 475.5, y: 210.50002}
     m_MarginLeft: 0
     m_MarginRight: 0
     m_MarginTop: 0
     m_MarginBottom: 0
     m_LastShownAreaInsideMargins:
       serializedVersion: 2
-      x: -1219.8099
-      y: -540
-      width: 2439.6199
-      height: 1080
+      x: -1161.8552
+      y: -514.3439
+      width: 2323.7104
+      height: 1028.6877
     m_MinimalGUI: 1
-  m_defaultScale: 0.38981482
+  m_defaultScale: 0.40925926
   m_LastWindowPixelSize: {x: 951, y: 442}
   m_ClearInEditMode: 1
   m_NoCameraWarning: 1
@@ -684,7 +684,7 @@ MonoBehaviour:
   m_Rotation:
     m_Target: {x: 0.25253472, y: -0.0014550209, z: 0.00038490575, w: 0.96755034}
     speed: 2
-    m_Value: {x: 0.2525436, y: -0.0014550721, z: 0.0003849193, w: 0.9675844}
+    m_Value: {x: -0.25253472, y: 0.001455021, z: -0.00038490575, w: -0.9675504}
   m_Size:
     m_Target: 2.6297877
     speed: 2
