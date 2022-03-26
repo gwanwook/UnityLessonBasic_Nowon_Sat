@@ -7,6 +7,7 @@ public class Bullet : MonoBehaviour
     public Vector3 dir = Vector3.forward;
     public float speed = 5f;
     Transform tr;
+    public int damage;
 
     private void Awake() =>
         tr = transform;
@@ -22,8 +23,9 @@ public class Bullet : MonoBehaviour
 
         if(go.layer == LayerMask.NameToLayer("Enemy"))
         {
-            go.GetComponent<Enemy>().DoDestroyEffect();
-            Destroy(go);
+            /*go.GetComponent<Enemy>().DoDestroyEffect();
+            Destroy(go);*/
+            go.GetComponent<Enemy>().hp -= damage;
             Destroy(gameObject);
         }
     }
