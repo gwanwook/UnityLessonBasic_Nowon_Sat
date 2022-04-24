@@ -11,9 +11,6 @@ namespace UnityLesson_CSharp_HorseRacingGame
         {
             bool racingIsFinished = true;
 
-            string[] rankName = new string[5];
-            int[] rankScore = new int[5];
-
             List<Horse> arr_Horse = new List<Horse>();
 
             int[] rankings = Enumerable.Repeat(1, 5).ToArray();
