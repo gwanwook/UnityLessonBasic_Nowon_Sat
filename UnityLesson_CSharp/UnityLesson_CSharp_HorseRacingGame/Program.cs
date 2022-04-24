@@ -11,6 +11,11 @@ namespace UnityLesson_CSharp_HorseRacingGame
         {
             bool racingIsFinished = true;
 
+            int chkNum;
+
+            //string[] rankName = new string[5];
+            //int[] rankScore = new int[5];
+
             List<Horse> arr_Horse = new List<Horse>();
 
             int[] rankings = Enumerable.Repeat(1, 5).ToArray();
@@ -38,12 +43,23 @@ namespace UnityLesson_CSharp_HorseRacingGame
 
                 Console.WriteLine("=====================================================");
 
+                chkNum = 0;
+
                 for (int i = 0; i < 5; i++)
                 {
                     if (arr_Horse[i].horseStats.runLength >= 200)
                     {
-                        racingIsFinished = false;
+                        chkNum++;
                     }
+                    else
+                    {
+                        chkNum--;
+                    }
+                }
+
+                if(chkNum == 5)
+                {
+                    racingIsFinished = false;
                 }
             }
 
@@ -63,7 +79,6 @@ namespace UnityLesson_CSharp_HorseRacingGame
             {
                 Console.WriteLine($"{rankings[i]}등 -> {arr_Horse[i].horseStats.name} : {arr_Horse[i].horseStats.runLength}");
             }
-
 
             /*
             if (rankName[i] != arr_Horse[i].horseStats.name)
